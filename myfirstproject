@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>24nido - Useful Software Hub</title>
+    <link rel="stylesheet" href="thirdbb.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Welcome to 24nido</h1>
+        <p>Your trusted hub for useful and essential software</p>
+    </header>
+
+    <section class="welcome">
+        <h1>Explore Free & Useful Software</h1>
+        <p>Download trusted software that makes your digital life easier and more productive.</p>
+    </section>
+    <section class="software-section">
+        <!-- First Row -->
+        <div class="software-card">
+            <h3>WinRAR</h3>
+            <p>A powerful tool to open and compress ZIP/RAR files easily.</p>
+            <a href="https://www.rarlab.com/" class="download-btn" target="_blank">Download</a>
+        </div>
+        <div class="software-card">
+            <h3>VLC Media Player</h3>
+            <p>Play almost any video or audio format with this lightweight media player.</p>
+            <a href="https://www.videolan.org/vlc/" class="download-btn" target="_blank">Download</a>
+        </div>
+        <div class="software-card">
+            <h3>Adobe Acrobat Reader</h3>
+            <p>View and manage your PDF files with ease.</p>
+            <a href="https://get.adobe.com/reader/" class="download-btn" target="_blank">Download</a>
+        </div>
+    
+        <!-- More Software Cards Below (in same section) -->
+        <div class="software-card">
+            <h3>Splunk</h3>
+            <p>Splunk is an extensive cybersecurity software that can monitor network security and generate real-time
+                alerts.</p>
+            <a href="https://www.splunk.com/" class="download-btn" target="_blank">Download</a>
+        </div>
+        <div class="software-card">
+            <h3>Metasploit</h3>
+            <p>Metasploit is a penetration testing framework that allows security professionals to exploit vulnerabilities
+                and improve system security.</p>
+            <a href="https://www.metasploit.com/" class="download-btn" target="_blank">Download</a>
+        </div>
+        <div class="software-card">
+            <h3>John the Ripper</h3>
+            <p>John the Ripper is a password cracking software used to test the strength of password security in systems.
+            </p>
+            <a href="https://www.openwall.com/john/" class="download-btn" target="_blank">Download</a>
+        </div>
+        <div class="software-card">
+            <h3>BitDefender</h3>
+            <p>BitDefender is a cybersecurity software that provides antivirus and internet security features to protect
+                against malware and other threats.</p>
+            <a href="https://www.bitdefender.com/" class="download-btn" target="_blank">Download</a>
+        </div>
+        <div class="software-card">
+            <h3>Kali Linux</h3>
+            <p>Kali Linux is a powerful open-source operating system specifically designed for penetration testing, ethical
+                hacking, and network security audits.</p>
+            <a href="https://www.kali.org/" class="download-btn" target="_blank">Download</a>
+        </div>
+        <div class="software-card">
+            <h3>Wire shark</h3>
+            <p>Wire shark is a network protocol analyzer that helps in capturing and analyzing data packets over a network
+                for troubleshooting and security analysis.</p>
+            <a href="https://www.wireshark.org/" class="download-btn" target="_blank">Download</a>
+        </div>
+        <div class="software-card">
+            <h3>Snort</h3>
+            <p>Snort is an open-source network intrusion detection and prevention system (IDS/IPS) used for detecting and
+                preventing malicious network activity.</p>
+            <a href="https://www.snort.org/" class="download-btn" target="_blank">Download</a>
+        </div>
+        <div class="software-card">
+            <h3>TotalAV</h3>
+            <p>TotalAV is a security software that offers antivirus, VPN, and system optimization tools to protect your
+                devices from online threats.</p>
+            <a href="https://www.totalav.com/" class="download-btn" target="_blank">Download</a>
+        </div>
+    </section>
+   
+
+</body>
+
+</html>
